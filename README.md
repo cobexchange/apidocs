@@ -1,2 +1,2 @@
 # apidocs
-Cobex Exchange Rest API Documents 
+Cobex Exchange Public Rest API Documents 
